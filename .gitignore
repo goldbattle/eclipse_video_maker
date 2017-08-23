@@ -1,0 +1,6 @@
+data_out
+!data_out/.gitkeep
+cmake-build-debug
+*.*~
+.idea
+*.mp4
